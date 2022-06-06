@@ -13,3 +13,6 @@ Users should be able to:
 
 ## Screenshot
 ![](./src/gpt3-previe.png)
+
+## Links
+- Live Preview URL: https://superlative-dodol-56ea3a.netlify.app
